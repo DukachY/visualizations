@@ -11,3 +11,8 @@ You can find the code, data and the image named as "barplot"
 You can find the code, data and the image named as "linegraph"  
 
 ![image2](https://github.com/DukachY/visualizations/blob/master/linegraph.png)
+
+
+## 3. Line graph that demonstrates difference (with highlited elements)
+You can find the code, data and the image named as "line-lolipop"  
+![image3](https://github.com/DukachY/visualizations/blob/master/line-lolipop.png)
