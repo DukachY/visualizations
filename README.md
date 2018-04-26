@@ -1,5 +1,6 @@
 # Examples of data visualizations in R
-Here I will upload different visualizations with the code and achieved result (in png)
+Here I will upload different visualizations with the code and achieved result (in png).  
+I will make A LOT of comments - just to be sure that those who are only starting to learn ggplot2 will understand everything (and sorry, all the comments will be in Russian)
 
 ## 1. Normalized stacked bar plot
 You can find the code, data and the image named as "barplot"
